@@ -3,9 +3,7 @@ Title: Customer Service Satisfaction Analysis
 This analysis evaluates customer feedback to identify satisfaction trends, key drivers of satisfaction, and areas for improvement. The dataset includes ratings and service metrics.
 
 Tools Used
-Excel: For data cleaning, analysis, and visualization.
-Pivot Tables: To summarize customer feedback by service category and demographics.
-Charts: To visualize satisfaction trends and key metrics.
+Excel for data cleaning, analysis, and visualization, Pivot Tables to summarize customer feedback, Charts to visualize satisfaction trends and key metrics and dashboard to present findings.
 
 Key Insights
 Response Time: Faster responses lead to higher satisfaction.
