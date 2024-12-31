@@ -9,6 +9,8 @@ Project Objectives
 5. To determine customer retention rates and returning customer trends.
 6. To perform product-based analysis for top-selling and high-revenue categories.
 
+Tool used: SQL, Microsoft SSMS
+
 Key Analyses Performed
 Revenue Analysis: 
 1. Revenue trends across years, months, and product categories.
@@ -28,3 +30,4 @@ Product Performance:
 Review Analysis:
 1. Average review scores per product category.
 2. Relationship between review scores and delivery performance.
+
